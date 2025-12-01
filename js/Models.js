@@ -12,12 +12,12 @@ export default class Models {
             {
                 id: 'heart',
                 mask: `heart.jpg`,
-                video: `https://youtu.be/62_pfujlveU`
+                video: `gigi-cat.mp4`
             },
             {
                 id: 'codrops',
                 mask: `codrops.jpg`,
-                video: `https://youtu.be/G896xFVseHY`
+                video: `gigi-cat.mp4`
             },
             {
                 id: 'smile',
