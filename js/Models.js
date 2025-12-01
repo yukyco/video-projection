@@ -77,7 +77,7 @@ export default class Models {
 
     createVideoTexture(config, index) {
 		this.video = document.createElement('video')
-		this.video.src = `../video/${config.video}`
+		this.video.src = `../videos/${config.video}`
 		this.video.crossOrigin = 'anonymous'
 		this.video.loop = true
 		this.video.muted = true
